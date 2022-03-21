@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Test</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_test</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 10:38:11</sys_created_on>
+        <sys_id>957b0d7a0752011072d9f7108c1ed0ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_957b0d7a0752011072d9f7108c1ed0ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 10:38:11</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.test_user" name="x_58872_needit.test_user">8eabc97a0752011072d9f7108c1ed066</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>12634d05db6c734052cec59705961974</instance_id>
+        <instance_name>dev77991</instance_name>
+        <name>sys_db_object_957b0d7a0752011072d9f7108c1ed0ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Test</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_test</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-21 10:38:11</sys_created_on><sys_id>957b0d7a0752011072d9f7108c1ed0ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_957b0d7a0752011072d9f7108c1ed0ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-21 10:38:11</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.test_user" name="x_58872_needit.test_user">8eabc97a0752011072d9f7108c1ed066</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>179379974</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>eb9270ad0752411072d9f7108c1ed0d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 10:38:14</sys_created_on>
+        <sys_id>72ab45ba0752011072d9f7108c1ed00c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fac0e54ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 10:38:14</sys_updated_on>
+        <type>Table</type>
+        <update_guid>baab45ba93520110a38700d2bd46f80b</update_guid>
+        <update_guid_history>baab45ba93520110a38700d2bd46f80b:179379974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 10:41:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>05d238c9719a454683013962789df6f9</sys_id>
+        <sys_metadata>957b0d7a0752011072d9f7108c1ed0ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_957b0d7a0752011072d9f7108c1ed0ba</sys_update_name>
+        <sys_update_version display_value="sys_db_object_957b0d7a0752011072d9f7108c1ed0ba">72ab45ba0752011072d9f7108c1ed00c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 10:41:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
